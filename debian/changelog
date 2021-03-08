@@ -1,3 +1,7 @@
+i3-gaps (4.19.1-2) unstable; urgency=medium
+
+  * Conflict with mainline i3-wm
+
 i3-gaps (4.19.1-1) unstable; urgency=medium
 
   * Version 4.19.1
